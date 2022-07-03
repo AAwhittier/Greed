@@ -1,0 +1,2 @@
+# Greed
+Game of greed
